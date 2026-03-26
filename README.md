@@ -133,6 +133,7 @@ python main.py
 ## 👨‍💻 Author
 
 Rajat Tiwari
+
 B.Tech CSE (AI & ML)
 
 ---
