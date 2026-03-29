@@ -38,8 +38,8 @@ The project adheres to strict Separation of Concerns (SoC) for high code quality
 **1. Clone the Environment**
 
 ```bash
-git clone https://github.com/tiwarirajat-1501/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/tiwarirajat-1501/Face-Detection-System.git
+cd Face-Detection-System
 ```
 
 **2. Install the Dependencies**
